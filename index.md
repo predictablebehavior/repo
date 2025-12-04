@@ -1,10 +1,8 @@
 ---
-layout: single
-title: "Home"
-permalink: /
-sidebar:
-  nav: main
+layout: default
+title: Home
+nav_order: 1
 ---
-경제학 공부를 위한 개인 저장소
 
-Coming soon..
+# Welcome
+경제학 공부 저장소입니다.
