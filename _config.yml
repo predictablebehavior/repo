@@ -16,27 +16,17 @@ plugins:
   - jekyll-archives
   - jekyll-include-cache
 
-# 포스트(노트)를 카테고리로 관리할 거라 collections는 일단 안 씀
-# 나중에 정말 필요하면 study 같은 collection 추가 가능
+collections:
+  math:
+    output: true
+    permalink: /study/math/:name/
 
-# Minimal Mistakes 기본 설정 몇 개 (필요한 정도만)
-paginate: 5
-paginate_path: "/page:num/"
+collections:
+  econometrics:
+    output: true
+    permalink: /study/econometrics/:name/
 
-# 사이드바에서 쓸 기본 네비 이름
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      sidebar:
-        nav: "main"
-
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      sidebar:
-        nav: "main"
+collections:
+  microeconomics:
+    output: true
+    permalink: /study/microeconomics/:name/
