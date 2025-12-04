@@ -10,8 +10,7 @@ main:
         url: /study/econometrics/
       - title: "Mathmatics"
         url: /study/math/
-      - title: "Game theory"
-        url: /study/game/
+        
   - title: "Notes"
     url: /notes/
   - title: "About"
