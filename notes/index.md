@@ -1,9 +1,7 @@
 ---
-layout: single
-title: "Notes"
-permalink: /notes/
-sidebar:
-  nav: main
+layout: default
+title: Notes
+nav_order: 1
 ---
 
 조금 더 가볍게 기록하는 공간
