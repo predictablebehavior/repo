@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Econometrics
-nav_order: 1
 parent: Study
 ---
 
