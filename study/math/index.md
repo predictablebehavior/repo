@@ -1,11 +1,15 @@
 ---
+title: "Study"
+permalink: /study/
 layout: single
-title: "Mathmatics"
-permalink: /study/math/
 sidebar:
   nav: main
 ---
 
-경제학과 관련된 수학 공부 정리노트
+## Study
 
-Coming soon..
+경제학 전반 공부 노트를 모아두는 공간입니다.
+
+- [Math](/study/math/)
+- [Microeconomics](/study/microeconomics/)
+- [Econometrics](/study/econometrics/)
