@@ -1,7 +1,7 @@
-title: "Predictable Behavior"
+title: "Seju Lee"
 description: "경제학 공부를 위한 개인 저장소"
 url: "https://predictablebehavior.github.io"  # 사용자 페이지면 이거 그대로
-baseurl: "/predictablebehavior/"                                   # 사용자 페이지면 비워둠
+baseurl: "/repo/"                                   # 사용자 페이지면 비워둠
 
 remote_theme: "mmistakes/minimal-mistakes"
 
