@@ -1,7 +1,6 @@
 title: "Predictable Behavior"
 description: "경제학 공부를 위한 개인 저장소"
 url: "https://predictablebehavior.github.io"
-baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 
