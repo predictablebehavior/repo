@@ -7,7 +7,6 @@ main:
 
   - title: "Study"
     url: /study/
-
     children:
       - title: "Math"
         url: /study/math/
