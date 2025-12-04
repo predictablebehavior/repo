@@ -5,13 +5,13 @@ main:
     url: /study/
     children:
       - title: "Microeconomics"
-        url: /research/microeconomics/
+        url: /study/microeconomics/
       - title: "Econometrics"
-        url: /research/econometrics/
+        url: /study/econometrics/
       - title: "Mathmatics"
-        url: /research/math/
+        url: /study/math/
       - title: "Game theory"
-        url: /research/game/
+        url: /study/game/
   - title: "Notes"
     url: /notes/
   - title: "About"
