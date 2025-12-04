@@ -1,0 +1,17 @@
+title: "Predictable Behavior"
+description: "경제학 공부를 위한 개인 저장소"
+url: "https://predictablebehavior.github.io"
+baseurl: "/predictablebehavior"   
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-include-cache   # minimal-mistakes가 권장하는 플러그인
