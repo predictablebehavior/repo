@@ -3,18 +3,18 @@ main:
     url: /predictablebehavior/
 
   - title: "Notes"
-    url: /predictablebehavior/notes/
+    url: /notes/
 
   - title: "Study"
-    url: /predictablebehavior/study/
+    url: /study/
 
     children:
       - title: "Math"
-        url: /predictablebehavior/study/math/
+        url: /study/math/
       - title: "Microeconomics"
-        url: /predictablebehavior/study/microeconomics/
+        url: /study/microeconomics/
       - title: "Econometrics"
-        url: /predictablebehavior/study/econometrics/
+        url: /study/econometrics/
 
   - title: "About"
-    url: /predictablebehavior/about/
+    url: /about/
