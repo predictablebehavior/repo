@@ -5,5 +5,5 @@ nav_order: 1
 parent: Study
 ---
 
-# Math Notes
+Math Notes
 
