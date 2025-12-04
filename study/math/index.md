@@ -1,14 +1,21 @@
 ---
-layout: category
+layout: single
 title: "Math"
 permalink: /study/math/
-taxonomy: math
+sidebar:
+  nav: main
 ---
 
-## Study
+## Math Notes
 
-경제학 전반 공부 노트를 모아두는 공간입니다.
+<ul>
+  {% assign math_pages = site.pages 
+        | where_exp:"p", "p.url contains '/study/math/'" 
+        | sort: "url" %}
+  {% for p in math_pages %}
+    {% if p.url != page.url %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-- [Math](/study/math/)
-- [Microeconomics](/study/microeconomics/)
-- [Econometrics](/study/econometrics/)
