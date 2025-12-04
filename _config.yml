@@ -1,17 +1,9 @@
 title: "Seju Lee"
-description: "경제학 공부를 위한 개인 저장소"
-url: "https://predictablebehavior.github.io"  # 사용자 페이지면 이거 그대로
-baseurl: "/repo"                                   # 사용자 페이지면 비워둠
+description: "경제학 공부 저장소"
+url: "https://predictablebehavior.github.io"
+baseurl: "/repo"
 
-remote_theme: "mmistakes/minimal-mistakes"
-
-minimal_mistakes_skin: "default"
-
-markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-include-cache
