@@ -4,7 +4,7 @@ title: About
 nav_order: 2
 ---
 
-# 자기소개  
+## 자기소개  
 
 
 
