@@ -1,9 +1,9 @@
 ---
-layout: single
-title: "Microeconomics"
-permalink: /study/microeconomics/
-sidebar:
-  nav: main
+layout: default
+title: Microeconomics
+parent: Study
+nav_order: 3
+has_children: true
 ---
 
 경제학과 관련된 미시경제학 정리 정리노트
