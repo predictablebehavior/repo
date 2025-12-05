@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microeconomics
-parent: study
+parent: Study
 nav_order: 3
 has_children: true
 ---
