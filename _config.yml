@@ -8,6 +8,10 @@ remote_theme: just-the-docs/just-the-docs
 include:
   - _includes
 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 
 # Enable or disable the site search
 # Supports true (default) or false
