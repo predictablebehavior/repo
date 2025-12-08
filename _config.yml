@@ -9,8 +9,14 @@ include:
   - _includes
 
 markdown: kramdown
+
 kramdown:
+  input: GFM
   math_engine: mathjax
+
+# 사이트 전체에서 수식을 쓸 거라면
+math: mathjax
+
 
 
 # Enable or disable the site search
